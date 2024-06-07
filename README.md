@@ -1,2 +1,2 @@
 # Sprint5project
-I'm currently studying python in a bootcamp in order to become in data analyst. Each sprint has different relevant content about data science, this is the fifth project and my objective is to create an web and share with everyone :).
+I'm currently studying python in a bootcamp in order to work as data analyst in the near future. My objective for this project is to create a website app and share it with everyone who might be interested.
