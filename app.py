@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.header('Datos de anuncios de ventas de coches')
 
-car_data = pd.read_csv('/Users/leogracia17/TTdocs/GitHub/Sprint5project/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 hist_button = st.button('Construir histograma')
 
 if hist_button:
